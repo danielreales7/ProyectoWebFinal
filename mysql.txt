@@ -1,0 +1,7 @@
+	#	Name	Type	Collation	Attributes	Null	Default	Extra	Action
+	 1	id_cliente	int(4)		UNSIGNED	No	None	AUTO_INCREMENT	 
+	 2	nombre	varchar(20)	latin1_swedish_ci		No	None
+	 3	apellidos	varchar(80)	latin1_swedish_ci		No	None		  
+	 4  nombre_usuario varchar(20) latin1_swedish_ci	No  None
+	 5  password varchar(20) latin1_swedish_ci		No None			  		  
+	 6	email	varchar(30)	latin1_swedish_ci		Yes	NULL		  	

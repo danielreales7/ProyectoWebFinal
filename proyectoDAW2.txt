@@ -1,0 +1,13 @@
+PROYECTO FINAL DAW2
+
+1. Un header fijo, en el que aparte de los menús, haya un enlace a iniciar sesión o registrarse.
+2. Ese enlace a iniciar sesión abre un div con el fondo con algo de transparencia.
+3. Al hacer click en un elemento del nav, me haga igual que en la página de Leonidasesteban.com
+4. Crear una flecha que al bajar algo la página aparezca abajo para que suba hacia arriba.
+5. Un ejemplo de cuando inicie sesión algún administrador en la web (los únicos que tienen acceso), aparezan un Todo List realizado con ajax. Y
+ así poder importar tareas importantes para realizar.
+ Ej: Un campo de texto para introducir que tarea hacer y otro botón que sea enviar.
+ Al darle a enviar, lo que hemos introducido aparezca abajo en una lista.
+ El ejemplo esta aquí: C:\Users\Daniel\Desktop\Curso_Profesional_Front-End\MEJORANDO.LA\MejorandoCurso-master\mejorandocurso\JavascriptPro
+
+(PEDIR ANTONIO REPRODUCTOR DE AUDIO QUE HA CREADO)

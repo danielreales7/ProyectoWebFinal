@@ -1,0 +1,18 @@
+body{color:#323f48}
+header{background:#fbfbfb;height:60px;position:absolute;width:100%;left:0;top:0;border-bottom:4px solid #939393;position:fixed;}
+header nav{font-size:16px;}
+header nav .menu{height:40px;line-height:40px;margin:0;padding:.5em;font-family:'Prosto One',cursive;overflow-x:auto;white-space:nowrap;}
+header nav .menu li{display:inline-block;}
+header nav .menu li a{color:#939393;text-decoration:none;margin:.5em;padding:.2em}
+header nav .menu li a:hover{color:#000}
+header .sesion{visibility:hidden}
+.contenido{padding:3em;text-align:justify;}
+.contenido .inicio{border-bottom:2px dashed #4ad391;}
+.contenido .inicio .titulo{font-size:30px;display:inline-block;border-bottom:1px solid #4ad391;margin-bottom:20px}
+#IrArriba{position:fixed;bottom:30px;right:30px}
+#IrArriba span{width:60px;height:60px;display:block;background:url("../img/flecha-arriba.png") no-repeat center center}
+@media screen and (min-width: 768px){header nav{font-size:20px;}
+header nav .menu{float:left}
+header .sesion{visibility:visible;float:right;margin:5px .5em 0 0;padding:.1em .2em}
+.contenido .inicio .titulo{font-size:40px}
+}
